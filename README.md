@@ -1,11 +1,11 @@
-## 😃 TaeHyung Kim / Abangpa1ace 
+### 😃 TaeHyung Kim / Abangpa1ace 
 
 <br />
 Hi, I'm brand new Front-End Developer with React! Let's Burn it!!🔥🔥
 
 ***
 
-### 🏋️ Skill Stack
+#### 🏋️ Skill Stack
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
@@ -14,7 +14,7 @@ Hi, I'm brand new Front-End Developer with React! Let's Burn it!!🔥🔥
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span>
 
-### 🤹‍♂️ About Me
+#### 🤹‍♂️ About Me
 <a href="https://github.com/Abangpa1ace?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://abangpa1ace.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/ttaeng_99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
