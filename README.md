@@ -1,7 +1,9 @@
 ### 😃 TaeHyung Kim / Abangpa1ace 
 
 <br />
-Hi, I'm brand new Front-End Developer with React! Let's Burn it!!🔥🔥
+Hi, I'm brand new Web Front-End Developer with Vue & React! 
+Now I'm working at gorgeous gaming platform company, "Bicpicture Interactive". https://www.bigpi.co/
+I'll study harder, grow better, develop more than anyone else !!🔥🔥
 
 ***
 
