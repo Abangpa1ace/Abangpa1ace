@@ -1,7 +1,7 @@
 ### 😃 TaeHyung Kim / Abangpa1ace 
 
 <br />
-Hi, I'm brand new Web Front-End Developer with Vue & React! </br>
+Hi, I'm brand new Web Front-End Developer with React & Vue! </br>
 Now I'm working at gorgeous gaming platform company, "Bicpicture Interactive". https://www.bigpi.co/ </br>
 I'll study harder, grow better, develop more than anyone else !!🔥🔥 </br>
 ***
@@ -18,11 +18,27 @@ I'll study harder, grow better, develop more than anyone else !!🔥🔥 </br>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Redux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vue2-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=Less&logoColor=white"/></span>
 <br/>
 <h4>2022</h4>
-
-
+<span><img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Windi CSS-48B0F1?style=flat-square&logo=WindiCSS&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/TS(Basic)-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></span>
+<br/>
+<p>* To-Do in this Year: 
+  <span><img src="https://img.shields.io/badge/TS(Advanced)-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
+  </span>
+  <span><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
+</p>
+  
 #### 🤹‍♂️ About Me
 <a href="https://github.com/Abangpa1ace?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://abangpa1ace.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
