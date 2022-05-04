@@ -7,6 +7,7 @@ I'll study harder, grow better, develop more than anyone else !!🔥🔥 </br>
 ***
 
 #### 🏋️ Skill Stack
+<h4>2021</h4>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
@@ -17,6 +18,10 @@ I'll study harder, grow better, develop more than anyone else !!🔥🔥 </br>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Redux&logoColor=white"/></span>
+<br/>
+<h4>2022</h4>
+
 
 #### 🤹‍♂️ About Me
 <a href="https://github.com/Abangpa1ace?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
